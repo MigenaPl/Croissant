@@ -1,0 +1,42 @@
+:root {
+  --primary-color: #a5621a;
+  --secondary-color: #f3ad61;
+  --extra-color: #f5f2fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  margin-top: 100px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+.heading-one {
+  font-size: 72px;
+  color: #a5621a;
+}
+
+h2 {
+  font-size: 48px;
+}
+p {
+  font-size: 36px;
+  text-align: center;
+  color: #f3ad61;
+}
+.email-link {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 28px;
+  text-decoration: none;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+  color: var(--secondary-color);
+}
