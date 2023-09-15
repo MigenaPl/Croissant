@@ -17,15 +17,15 @@ h3 {
 }
 
 .heading-one {
-  font-size: 72px;
+  font-size: 68px;
   color: #a5621a;
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 46px;
 }
 p {
-  font-size: 36px;
+  font-size: 32px;
   text-align: center;
   color: #f3ad61;
 }
@@ -33,7 +33,7 @@ p {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 24px;
   text-decoration: none;
 }
 
